@@ -1,6 +1,6 @@
-##This document assumes you know fundamentals of programming, python and data structures. 
+## This document assumes you know fundamentals of programming, python and data structures. 
 
-###Preface:
+Preface:
 
 1. How internet works generally?
     1. HTTP protocol
@@ -14,7 +14,7 @@
 8. Basic linux commands & package manager fundamentals
 
 
-###Basic Concepts:
+Basic Concepts:
 
 9. What is a database (relational)? (Table, Row, Column)
 10. What is a framework and why use a framework at all?
@@ -33,7 +33,7 @@
 23. Calling API with postman
 
 
-###API In Depth:
+API In Depth:
 
 24. ModelSerializer
 25. CRUD, Different view types & http verbs
@@ -46,7 +46,7 @@
 32. .gitignore / ssh key / git push / git pull / origin
 
 
-###API In Depth 2:
+API In Depth 2:
 
 33. API design principles
 34. HyperlinkedModelViewSet
@@ -57,7 +57,7 @@
 39. Different DBMS (PostgreSQL, SQLite, MySQL, ...)
 
 
-###User Management System:
+User Management System:
 
 40. Authentication Vs. Authorization
 41. Different authentication types (Session Based, Token Based, OAuth2)
@@ -67,7 +67,7 @@
 45. Protected API endpoints
 
 
-###Software Testing:
+Software Testing:
 
 46. Python unittest package
 47. Python requests package
@@ -78,7 +78,7 @@
 52. Increasing code coverage with more tests
 
 
-###Performance Tuning:
+Performance Tuning:
 
 53. What is caching?
 54. Why should we cache?
@@ -89,7 +89,7 @@
 59. Lazy Querysets
 
 
-###More Advanced Topics:
+More Advanced Topics:
 
 60. Database Indexing (performance)
 61. Custom User Model
