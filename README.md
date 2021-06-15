@@ -46,7 +46,7 @@
 32. .gitignore / ssh key / git push / git pull / origin
 
 
-API In Depth 2:
+#### API In Depth 2:
 
 33. API design principles
 34. HyperlinkedModelViewSet
@@ -57,7 +57,7 @@ API In Depth 2:
 39. Different DBMS (PostgreSQL, SQLite, MySQL, ...)
 
 
-User Management System:
+#### User Management System:
 
 40. Authentication Vs. Authorization
 41. Different authentication types (Session Based, Token Based, OAuth2)
@@ -67,7 +67,7 @@ User Management System:
 45. Protected API endpoints
 
 
-Software Testing:
+#### Software Testing:
 
 46. Python unittest package
 47. Python requests package
@@ -78,7 +78,7 @@ Software Testing:
 52. Increasing code coverage with more tests
 
 
-Performance Tuning:
+#### Performance Tuning:
 
 53. What is caching?
 54. Why should we cache?
@@ -89,7 +89,7 @@ Performance Tuning:
 59. Lazy Querysets
 
 
-More Advanced Topics:
+#### More Advanced Topics:
 
 60. Database Indexing (performance)
 61. Custom User Model
@@ -103,7 +103,7 @@ More Advanced Topics:
 69. OS Daemons and Celery Daemonization
 
 
-###Some nice to have Operation/DevOps related knowledge:
+#### Some nice to have Operation/DevOps related knowledge:
 
 70. WSGI and unix sockets
 71. NGINX and web servers
@@ -112,8 +112,8 @@ More Advanced Topics:
 73. Docker & Containerization
 74. Docker Compose
 
-#Interview question
-###Python-specific:
+### Interview question
+#### Python-specific:
 
 1. What do you like about Python?
 
@@ -135,7 +135,7 @@ More Advanced Topics:
 
 10. How good are with regex?
 
-###Django-specific:
+#### Django-specific:
 
 1. Are you familiar with the term MVC? Can you explain how this is similar to Django?
 
