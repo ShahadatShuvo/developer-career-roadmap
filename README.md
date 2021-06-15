@@ -1,6 +1,6 @@
-## This document assumes you know fundamentals of programming, python and data structures. 
+### This document assumes you know fundamentals of programming, python and data structures. 
 
-Preface:
+#### Preface:
 
 1. How internet works generally?
     1. HTTP protocol
@@ -14,7 +14,7 @@ Preface:
 8. Basic linux commands & package manager fundamentals
 
 
-Basic Concepts:
+#### Basic Concepts:
 
 9. What is a database (relational)? (Table, Row, Column)
 10. What is a framework and why use a framework at all?
@@ -33,7 +33,7 @@ Basic Concepts:
 23. Calling API with postman
 
 
-API In Depth:
+#### API In Depth:
 
 24. ModelSerializer
 25. CRUD, Different view types & http verbs
